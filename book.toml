@@ -1,0 +1,6 @@
+[book]
+authors = ["tess"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Evermore Language Specification"
